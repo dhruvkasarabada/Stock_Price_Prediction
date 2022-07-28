@@ -1,3 +1,3 @@
 #README
 
-This stores the presentation
+This stores the presentation slides. 
